@@ -1,0 +1,15 @@
+p.small {
+    font-size: 12;
+}
+p.medium {
+font-size: 18;
+}
+p.large {
+    font-size: 32;
+}
+p:hover {
+    background-color: rgb(255, 255, 166);
+}
+.center_text {
+    text-align: center;
+}
